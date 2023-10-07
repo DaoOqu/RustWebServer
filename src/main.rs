@@ -1,5 +1,5 @@
 use std::{
-	fs,
+    fs,
     net::{TcpListener, TcpStream},
     io::{prelude::*, BufReader},
 };
